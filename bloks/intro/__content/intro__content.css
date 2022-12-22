@@ -1,0 +1,12 @@
+.intro__content {
+  max-width: 690px;
+  width: 100%;
+  text-align: start;
+  margin: 0;
+}
+
+@media all and (max-width: 768px) {
+  .intro__content {
+    max-width: 720px;
+  }
+}
