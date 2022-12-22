@@ -22,3 +22,5 @@
 ---
 
 ## Ссылка на проект:
+
+https://alenarakhmanova.github.io/russian-travel/index.html
