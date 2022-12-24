@@ -1,0 +1,7 @@
+.lang-link__item {
+  margin-right: 18px;
+}
+
+.lang-link__item:last-child {
+  margin-right: 0;
+}
